@@ -1,0 +1,3 @@
+CEFEBOT/ffmpeg filter=lfs diff=lfs merge=lfs -text
+CEFEBOT/ffmpeg-7.0.2-amd64-static/ffprobe filter=lfs diff=lfs merge=lfs -text
+CEFEBOT/ffmpeg* filter=lfs diff=lfs merge=lfs -text
